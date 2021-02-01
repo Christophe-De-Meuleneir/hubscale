@@ -1,0 +1,174 @@
+@media screen and (max-width: 2560px) {
+  html {
+    background-color: brown;
+  }
+}
+
+@media screen and (max-width: 2048px) {
+  html {
+    background-color: burlywood;
+  }
+}
+
+@media screen and (max-width: 1920px) {
+  html {
+    background-color: cadetblue;
+  }
+}
+
+@media screen and (max-width: 1680px) {
+  html {
+    background-color: chartreuse;
+  }
+}
+
+@media screen and (max-width: 1600px) {
+  html {
+    background-color: chocolate;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  html {
+    background-color: coral;
+  }
+}
+
+@media screen and (max-width: 1366px) {
+  html {
+    background-color: cornflowerblue;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  html {
+    background-color: cornsilk;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+  html {
+    background-color: black;
+  }
+}
+
+@media screen and (max-width: 1152px) {
+  html {
+    background-color: crimson;
+  }
+}
+
+@media screen and (max-width: 1070px) {
+  html {
+    background-color: #ff829b;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  html {
+    background-color: cyan;
+  }
+}
+
+@media screen and (max-width: 970px) {
+  html {
+    background-color: red;
+  }
+}
+
+@media screen and (max-width: 930px) {
+  html {
+    background-color: #001263;
+  }
+}
+
+@media screen and (max-width: 920px) {
+  html {
+    background-color: #0063b4;
+  }
+}
+
+@media screen and (max-width: 854px) {
+  html {
+    background-color: darkblue;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  html {
+    background-color: darkcyan;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  html {
+    background-color: darkgoldenrod;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  html {
+    background-color: #a8fc2c;
+  }
+}
+
+@media screen and (max-width: 676px) {
+  html {
+    background-color: #485733;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  html {
+    background-color: darkgray;
+  }
+}
+
+@media screen and (max-width: 608px) {
+  html {
+    background-color: white;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  html {
+    background-color: #af7575;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  html {
+    background-color: red;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  html {
+    background-color: #f700ff;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  html {
+    background-color: #ff7d00;
+  }
+}
+
+@media screen and (max-width: 384px) {
+  html {
+    background-color: darkkhaki;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  html {
+    background-color: darkmagenta;
+  }
+}
+
+@media screen and (max-width: 220px) {
+  html {
+    background-color: #420042;
+  }
+}
+/*# sourceMappingURL=media-screen.css.map */

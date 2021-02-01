@@ -1,0 +1,54 @@
+a.pink-button {
+  color: whitesmoke;
+  padding: 10px 15px;
+  background-color: #d02f52;
+  border-radius: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  -webkit-transition: 0.25s ease-in-out;
+  transition: 0.25s ease-in-out;
+}
+
+a.pink-button:hover {
+  background-color: #a62642;
+}
+
+a.blue-button {
+  color: whitesmoke;
+  padding: 10px 15px;
+  background-color: #212387;
+  border-radius: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  -webkit-transition: 0.25s ease-in-out;
+  transition: 0.25s ease-in-out;
+}
+
+a.blue-button:hover {
+  background-color: #17185e;
+}
+
+a.link {
+  text-decoration: none;
+  padding-bottom: 5px;
+  border-bottom: 1px groove transparent;
+  color: #212387;
+  -webkit-transition: 0.25s ease-in-out;
+  transition: 0.25s ease-in-out;
+}
+
+a.link:hover {
+  color: blue;
+  border-bottom: 1px groove #a62642;
+}
+
+.scroll {
+  padding-bottom: 5px;
+  border-bottom: 2px solid #a6a6a6;
+}
+
+.contenu-burger {
+  -webkit-transform: translateX(500px);
+          transform: translateX(500px);
+}
+/*# sourceMappingURL=element.css.map */

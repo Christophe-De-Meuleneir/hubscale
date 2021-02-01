@@ -1,0 +1,73 @@
+$blanc: whitesmoke;
+
+$bleu : hsl(239, 61%, 33%);
+$bleu-survol : hsl(239, 61%, 23%);
+
+$gris: hsl(0, 0%, 65%);
+
+$rose : hsl(347, 63%, 50%);
+$rose-survol : hsl(347, 63%, 40%);
+
+
+// Les liens
+// Les liens
+
+a.pink-button {
+    color: $blanc;
+    padding: 10px 15px;
+    background-color: $rose;
+    border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.25s ease-in-out;
+    &:hover {
+        background-color: $rose-survol;
+    }
+}
+
+a.blue-button {
+    color: whitesmoke;
+    padding: 10px 15px;
+    background-color: $bleu;
+    border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.25s ease-in-out;
+    &:hover {
+        background-color: $bleu-survol;
+    }
+}
+
+a.link {
+    text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 1px groove transparent;
+    color: $bleu;
+    transition: 0.25s ease-in-out;
+    &:hover {
+        color: blue;
+        border-bottom: 1px groove $rose-survol;
+    }
+  }
+
+
+// Les liens
+// Les liens
+
+// ------------------------
+
+// Évenement Javascript
+// Évenement Javascript
+
+.scroll {
+    padding-bottom: 5px;
+    border-bottom: 2px solid $gris
+}
+
+
+.contenu-burger {
+    transform: translateX(500px);
+}
+
+// Évenement Javascript
+// Évenement Javascript
